@@ -15,6 +15,8 @@ and open the template in the editor.
         ?>
 
         <h1>Saludos</h1>
+        <h1>Saludos2</h1>
+        <h1>Saludos3</h1>
         <script type="text/javascript">
 for (var i = 0; i < 3; i++) {
 
