@@ -20,6 +20,7 @@ and open the template in the editor.
         <h1>Saludos4</h1>
         <h1>Saludos5</h1>
         <h1>Saludos6</h1>
+        <h1>Saludos7</h1>
         <script type="text/javascript">
 for (var i = 0; i < 3; i++) {
 
